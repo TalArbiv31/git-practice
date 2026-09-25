@@ -1,2 +1,2 @@
-Hello Git!
+Hello from Bob!
 This is my second line!
